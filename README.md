@@ -1,7 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Keerti Mahantshetti</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keertiam29&label=Profile%20views&color=0e75b6&style=flat" alt="keertiam29" />
-</p>
+
 
 <p align="center">
   💻 Passionate ECE Engineering Student | 💡 DIY Tech Enthusiast | 🚀 Innovating with Microcontrollers & Embedded Systems  
@@ -54,6 +53,7 @@
 
 ---
 ⭐ *Let’s build the future together — one circuit at a time!*
+
 
 
 
