@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  💻 Passionate ECE Engineering Student | 💡 DIY Tech Enthusiast | 🚀 Innovating with Microcontrollers & Embedded Systems  
+  💻 Passionate ECE Engineering Student  | 🚀 Innovating with Microcontrollers & Embedded Systems  
 </p>
 
 ---
