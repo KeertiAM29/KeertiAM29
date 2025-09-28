@@ -10,11 +10,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **IoT, microcontroller-based embedded systems**, and **automation projects**.
-- 🌱 I’m learning **C, C++, Verilog, ARM, HTML, CSS, JavaScript**
-- 💬 Ask me about **Arduino**, **8051**, **NodeMCU**, **Logic Circuits**, or any **DIY electronics project**.
-- 🎓 Pursuing my B.E. in **Electronics & Communication Engineering** at KLE Technological University.
-- 🛠 I enjoy building real-world problem-solving prototypes.
+-  I'm currently working on **IoT, microcontroller-based embedded systems**, and **automation projects**.
+-  I’m learning **C, C++, Verilog, ARM, HTML, CSS, JavaScript**
+-  Pursuing my B.E. in **Electronics & Communication Engineering** at KLE Technological University.
+-  I enjoy building real-world problem-solving prototypes.
 
 ---
 
